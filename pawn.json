@@ -1,9 +1,9 @@
 {
-  "user": "kristoisberg",
+  "user": "paktetew85",
   "repo": "samp-td-streamer",
   "entry": "test.pwn",
   "output": "test.amx",
-  "dependencies": ["sampctl/samp-stdlib", "IllidanS4/PawnPlus:v1.1"],
+  "dependencies": ["sampctl/samp-stdlib"],
   "dev_dependencies": ["Open-GTO/mselect", "pawn-lang/YSI-Includes@5.x"],
   "builds": [
     {
